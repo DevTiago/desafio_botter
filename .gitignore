@@ -1,0 +1,14 @@
+node_modules/
+*.log
+.env
+.env.*
+/dist
+/build
+Thumbs.db
+.npm
+.yarn-cache
+.idea/
+.vscode/
+coverage/
+.docker/
+docker-compose.override.yml
